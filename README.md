@@ -2,6 +2,9 @@
 
 A simple e-commerce web app demo using HTML, CSS, and JavaScript.
 
+### GitHub Deployment
+	[https://ibrahim-samir-001.github.io/Swiftly-Mart/](https://ibrahim-samir-001.github.io/Swiftly-Mart/)
+ 
 ### Technology Stack
 - **HTML5, CSS3, JavaScript (Vanilla):** Core web technologies for structure, styling, and interactivity without frameworks.
 - **Bootstrap:** Used for building a responsive and mobile-friendly UI layout.
