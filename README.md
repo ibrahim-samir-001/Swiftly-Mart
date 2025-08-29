@@ -1,3 +1,10 @@
+---
+**Designed by:** Ibrahim Samir Jibril  
+**Email:** ibrahimjibril2000@gmail.com  
+**Lab Num:** 07
+
+---
+
 ## Swiftly-Mart
 
 A simple e-commerce web app demo using HTML, CSS, and JavaScript.
@@ -57,7 +64,4 @@ A simple e-commerce web app demo using HTML, CSS, and JavaScript.
 For demo purposes only. No real transactions.
   
 ---
-**Designed by:** Ibrahim Samir Jibril  
-**Email:** ibrahimjibril2000@gmail.com  
-**Lab Num:** 07
 
